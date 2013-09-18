@@ -27,6 +27,13 @@
 				$(this).find("li").css("display", "none");
 				$(this).find("li:eq(" + currentZone + ")").css("display", "block");
 			});
+
+			container.find("ul").mouseleave(function(e) {
+				$(this).find("li").css("float", "left");
+				$(this).find("li").css("display", "none");
+				$(this).find("li:first").css("display", "block");
+				$(this).find("li:first").css("float", "left");
+			});
 		});
 	}
 })(jQuery);

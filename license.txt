@@ -1,4 +1,4 @@
-Copyright (c) 2009 - 2011 Jan Vantomme
+Copyright (c) 2009 - 2011 Jan Vantomme and 2013 Kenneth Bielinski
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
