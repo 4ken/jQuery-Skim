@@ -43,3 +43,8 @@ History
 ====
 
 Forked & modified after: https://github.com/vormplus/jQuery-Skim/issues/1
+
+Thank you:
+====
+
+[vormplus](https://github.com/vormplus)
