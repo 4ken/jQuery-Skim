@@ -42,4 +42,4 @@ What's new?
 History 
 ====
 
-Forked after: https://github.com/vormplus/jQuery-Skim/issues/1
+Forked & modified after: https://github.com/vormplus/jQuery-Skim/issues/1
